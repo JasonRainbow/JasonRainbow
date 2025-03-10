@@ -1,3 +1,4 @@
+<img align="right" src="[https://github-readme-stats.vercel.app/api?username=jasonrainbow&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)" />
 ## Hi there 👋
 
 <!--
